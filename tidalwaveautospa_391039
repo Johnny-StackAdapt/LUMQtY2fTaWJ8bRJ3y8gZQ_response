@@ -1,0 +1,36 @@
+{
+   "id": "5e8f3fd3-d245-48fe-9797-32ac92f5fc7c",
+   "bidid": "168202348153667101712514",
+   "seatbid": [
+      {
+         "bid": [
+            {
+               "id": "bid1",
+               "impid": "display-0",
+               "ext": {
+                  "imptrackers": [
+                     "https://sync.srv.stackadapt.com/sync?nid=237&gdpr=0&gdpr_consent=&us_privacy=&sainit=true",
+                     "https://srv.stackadapt.com/cookie?campid=391039&nativeid=3574583&domain=apparatix.com%3A%3A237&auctionid=1-9103-168202348153667101712514-1&impindex=0&m=&isipgen=1"
+                  ]
+               },
+               "dealid": "LUMQtY2fTaWJ8bRJ3y8gZQ",
+               "iurl": "https://cdn.stackadapt.com/creatives/23720/64d0566e5b63329fe304a6d34c6a51ad.jpg",
+               "lurl": "https://losh.stackadapt.com/loss?&network=237&auction=1-9103-168202348153667101712514-1&imp=display-0&campaign=391039&nativead=3574583&publisher=306c670e3e16552e055d32163a66023f153833290426&loss=${AUCTION_LOSS}&price=${AUCTION_PRICE}",
+               "cid": "391039",
+               "crid": "3574583",
+               "burl": "https://evm2.stackadapt.com/win?aid=1-9103-168202348153667101712514-1&sid=display-0&wp=${AUCTION_PRICE}&rid=5e8f3fd3-d245-48fe-9797-32ac92f5fc7c&network=237&t=1682023481&said=1-9103-168202348153667101712514-1&sanid=237&imps=${IMPRESSIONS}",
+               "cat": [
+                  "IAB2"
+               ],
+               "adomain": [
+                  "tidalwaveautospa.com"
+               ],
+               "price": 505.40812,
+               "w": 1400,
+               "h": 400
+            }
+         ]
+      }
+   ],
+   "cur": "USD"
+}
